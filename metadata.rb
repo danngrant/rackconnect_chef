@@ -1,5 +1,5 @@
-maintainer       "David Radcliffe"
-maintainer_email "radcliffe.david@gmail.com"
+maintainer       "David Radcliffe created orginal,modified by Dann Grant"
+maintainer_email "dann.grant@rackspace.com"
 license          "Apache 2.0"
 description      "Configures rackconnect sudoers"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
