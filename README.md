@@ -1,9 +1,11 @@
 Description
 ===========
 
-This cookbook will setup sudo and the sudoers files to allow rackconnect to do its thing.
+This cookbook will add rackconnect to the sudoers files. This allows RackConnect automation to update software firewall.
 
 Mostly useful if you have other chef cookbooks/recipes that edit/manage sudoers.
+
+More features coming soon.
 
 Requirements
 ============
